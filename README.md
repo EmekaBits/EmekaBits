@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmekaBits
-- 👀 I’m interested in ... python, JavaScript, css and html. 
-- 🌱 I’m currently learning ... JavaScript. 
+- 👀 I’m interested in ... python, JavaScript, css html and node js. 
+- 🌱 I’m currently learning ... JavaScript, node js. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
